@@ -1,3 +1,3 @@
 aws-secret
-env-configmap
+env-config
 env-secret
