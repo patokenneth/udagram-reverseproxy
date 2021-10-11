@@ -4,3 +4,6 @@ env-secret.yml
 aws-secret.yaml
 env-config.yaml
 env-secret.yaml
+aws-secret
+env-config
+env-secret
